@@ -14,3 +14,8 @@ encode a bunch of movies in DNA and infect a whole bunch of people, and make the
 process is quite simple, needs a crispr kit and spectrograph? to read the data
 then send all the info to DMCA in video format via youtube with a lot of evil laughing and stand by
 
+### Password-less server-initiated protected resource sharing
+known: enter email, new key pair is created and stored in the browser and registered on a blockchain, get link in email which has the verifying authority vouch for that DID on the same blockchain with zksnarks
+- this requires the user to start the process
+new idea: send the user a link with a token, when they click it, you generate that key-value pair in their browser and in any other browsers that they click it on for the duration of its validity, then for as long as that browser has its data, the user can access the protected resource. if they land on that page after the link is expired and they're using a new browser, then just prompt for email and go with that first process
+- this applies to things like sending someone a link to a protected resource, with the user only having to click on one link and get access to the resource
