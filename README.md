@@ -19,3 +19,6 @@ known: enter email, new key pair is created and stored in the browser and regist
 - this requires the user to start the process
 new idea: send the user a link with a token, when they click it, you generate that key-value pair in their browser and in any other browsers that they click it on for the duration of its validity, then for as long as that browser has its data, the user can access the protected resource. if they land on that page after the link is expired and they're using a new browser, then just prompt for email and go with that first process
 - this applies to things like sending someone a link to a protected resource, with the user only having to click on one link and get access to the resource
+
+### Metaverse meeting rooms
+Offer metaverse meeting rooms. You can book the room online with a calendarly.com-type experience, customize the room with your branding or display ads on the walls. It would pair with your headset and calendar, and clicking join would open the app when it's time and join you into the room
